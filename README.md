@@ -18,5 +18,6 @@ Trabalhar com imagem e texto dando ênfase no texto
 ⚒️ CSS
 
 🎯 Autor
-Juliane Araujo Silva Ferrareto
-Agradeço ao Curso em Vídeo na pessoa de Gustavo Guanabara pela inspiração e todo ensino.
+Juliane Araujo Silva Ferrareto.
+
+Agradeço ao Curso em Vídeo na pessoa de Gustavo Guanabara pela inspiração e todo ensino ❤️
